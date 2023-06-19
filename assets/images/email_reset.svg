@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66.75" height="71" viewBox="0 0 66.75 71">
+  <defs>
+    <filter id="Path_59228" x="0" y="0" width="66.75" height="68.781" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="email" transform="translate(0.875 6)" style="mix-blend-mode: normal;isolation: isolate">
+    <path id="Path_59227" data-name="Path 59227" d="M0,24.382,31.3,44.3a2.032,2.032,0,0,0,2.4,0L65,24.382,33.719.413a2.035,2.035,0,0,0-2.437,0Z" transform="translate(0 -0.007)" fill="#474747"/>
+    <g transform="matrix(1, 0, 0, 1, -0.88, -6)" filter="url(#Path_59228)">
+      <path id="Path_59228-2" data-name="Path 59228" d="M108.688,0H68.063A4.069,4.069,0,0,0,64,4.063V48.75a2.032,2.032,0,0,0,2.031,2.031h44.688a2.032,2.032,0,0,0,2.031-2.031V4.063A4.067,4.067,0,0,0,108.688,0Z" transform="translate(-55 6)" fill="#fff"/>
+    </g>
+    <g id="Group_3643" data-name="Group 3643" transform="translate(16.25 8.125)">
+      <path id="Path_59229" data-name="Path 59229" d="M130.031,68.063h28.438a2.031,2.031,0,0,0,0-4.062H130.031a2.031,2.031,0,0,0,0,4.063Z" transform="translate(-128 -64)"/>
+      <path id="Path_59230" data-name="Path 59230" d="M158.469,128H130.031a2.031,2.031,0,0,0,0,4.063h28.438a2.031,2.031,0,0,0,0-4.062Z" transform="translate(-128 -119.875)"/>
+      <path id="Path_59231" data-name="Path 59231" d="M146.281,192h-16.25a2.031,2.031,0,0,0,0,4.063h16.25a2.031,2.031,0,1,0,0-4.063Z" transform="translate(-128 -175.75)"/>
+    </g>
+    <path id="Path_59232" data-name="Path 59232" d="M33.7,211.918a2.032,2.032,0,0,1-2.4,0L0,192v36.563a4.064,4.064,0,0,0,4.063,4.063H60.938A4.064,4.064,0,0,0,65,228.563V192Z" transform="translate(0 -167.625)"/>
+    <path id="Path_59233" data-name="Path 59233" d="M60.938,330.406H4.063A4.018,4.018,0,0,1,0,326.344a2.034,2.034,0,0,1,.829-1.637L31.3,304.394a2.032,2.032,0,0,1,2.4,0l30.469,20.313A2.034,2.034,0,0,1,65,326.344,4.018,4.018,0,0,1,60.938,330.406Z" transform="translate(0 -265.406)" fill="#474747"/>
+  </g>
+</svg>

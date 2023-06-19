@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="168" viewBox="0 0 320 168">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#141414"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3140" data-name="Rectangle 3140" width="320" height="168" rx="20" transform="translate(35 113)" fill="#141414"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.999" y1="0.522" x2="0.003" y2="0.399" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0f0f0f"/>
+      <stop offset="1" stop-color="#171717"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_6613" data-name="Group 6613" transform="translate(-35 -113)">
+    <rect id="Rectangle_2891" data-name="Rectangle 2891" width="320" height="168" rx="20" transform="translate(35 113)" fill="url(#linear-gradient)"/>
+    <g id="Mask_Group_116" data-name="Mask Group 116" clip-path="url(#clip-path)">
+      <g id="Group_1135" data-name="Group 1135" transform="translate(71 -172)">
+        <g id="Rectangle_3136" data-name="Rectangle 3136" transform="translate(-48 319) rotate(-45)" fill="none" stroke="#b89984" stroke-width="1" opacity="0.15">
+          <rect width="264" height="264" rx="25" stroke="none"/>
+          <rect x="0.5" y="0.5" width="263" height="263" rx="24.5" fill="none"/>
+        </g>
+        <g id="Rectangle_3137" data-name="Rectangle 3137" transform="translate(-48 339) rotate(-45)" fill="none" stroke="#b89984" stroke-width="1" opacity="0.15">
+          <rect width="264" height="264" rx="25" stroke="none"/>
+          <rect x="0.5" y="0.5" width="263" height="263" rx="24.5" fill="none"/>
+        </g>
+        <g id="Rectangle_3138" data-name="Rectangle 3138" transform="translate(-48 359) rotate(-45)" fill="none" stroke="#b89984" stroke-width="1" opacity="0.15">
+          <rect width="264" height="264" rx="25" stroke="none"/>
+          <rect x="0.5" y="0.5" width="263" height="263" rx="24.5" fill="none"/>
+        </g>
+        <rect id="Rectangle_3139" data-name="Rectangle 3139" width="264" height="264" rx="25" transform="translate(-48 297.676) rotate(-45)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>

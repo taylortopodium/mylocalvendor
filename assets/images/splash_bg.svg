@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="373.352" height="434.676" viewBox="0 0 373.352 434.676">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.999" y1="0.522" x2="0.003" y2="0.399" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0f0f0f"/>
+      <stop offset="1" stop-color="#171717"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_6610" data-name="Group 6610" transform="translate(-8 -55)">
+    <g id="Rectangle_2823" data-name="Rectangle 2823" transform="translate(8 263) rotate(-45)" fill="none" stroke="#b89984" stroke-width="1" opacity="0.15">
+      <rect width="264" height="264" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="263" height="263" rx="24.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2824" data-name="Rectangle 2824" transform="translate(8 283) rotate(-45)" fill="none" stroke="#b89984" stroke-width="1" opacity="0.15">
+      <rect width="264" height="264" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="263" height="263" rx="24.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2825" data-name="Rectangle 2825" transform="translate(8 303) rotate(-45)" fill="none" stroke="#b89984" stroke-width="1" opacity="0.15">
+      <rect width="264" height="264" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="263" height="263" rx="24.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_2822" data-name="Rectangle 2822" width="264" height="264" rx="25" transform="translate(8 241.676) rotate(-45)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.791" height="22" viewBox="0 0 18.791 22">
+  <g id="apple" transform="translate(-37.336)">
+    <g id="Group_17" data-name="Group 17" transform="translate(46.367)">
+      <g id="Group_16" data-name="Group 16" transform="translate(0)">
+        <path id="Path_16" data-name="Path 16" d="M252.01,0a5.163,5.163,0,0,0-3.343,1.809,4.484,4.484,0,0,0-1.094,3.484,4.357,4.357,0,0,0,3.373-1.723A4.84,4.84,0,0,0,252.01,0Z" transform="translate(-247.522)"/>
+      </g>
+    </g>
+    <g id="Group_19" data-name="Group 19" transform="translate(37.336 5.149)">
+      <g id="Group_18" data-name="Group 18" transform="translate(0)">
+        <path id="Path_17" data-name="Path 17" d="M55.491,122.072a5.569,5.569,0,0,0-4.2-2.232c-1.973,0-2.808.945-4.179.945-1.413,0-2.487-.942-4.194-.942a5.706,5.706,0,0,0-4.592,2.776c-1.591,2.467-1.319,7.1,1.259,11.055.923,1.413,2.155,3,3.766,3.017,1.434.014,1.838-.92,3.781-.929s2.311.942,3.743.927c1.613-.012,2.912-1.774,3.835-3.187a15.851,15.851,0,0,0,1.42-2.667A4.85,4.85,0,0,1,55.491,122.072Z" transform="translate(-37.336 -119.84)"/>
+      </g>
+    </g>
+  </g>
+</svg>
